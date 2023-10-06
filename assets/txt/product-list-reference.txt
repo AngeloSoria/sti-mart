@@ -1,0 +1,104 @@
+Beverages:
+Royal -₱ 40.00
+Coke -₱40.00
+Sprite -₱ 40.00
+Root Beer -₱ 40.00
+Delight -₱ 45.00
+C2 -₱ 30.00
+Gatorade - ₱ 55.00
+Mogu-Mogu -₱50.00
+Chuckie -₱37.00
+Smart C -₱ 42.00
+
+Alcohol: 
+Alfonso -₱250.00
+Emperador -₱200.00
+San Mig -₱80.00
+Red Horse ₱-80.00
+Mojito ₱- 150.00
+Smirnoff ₱- 60.00
+Black Label ₱-200.00
+Tanduay ₱-85.00
+GSM ₱-80.00
+Whiskey -₱300.00
+Emperador
+San Mig -₱80.00
+Red Horse ₱-80.00
+Mojito -₱ 150.00
+Smirnoff ₱- 60.00
+Black Label -₱200.00
+Tanduay ₱-85.00
+GSM ₱-80.00
+Whiskey ₱-300.00
+
+Snacks:
+Piattos -₱ 17.00
+Nova -₱ 17.00
+Roller Coaster -₱ 20.00
+Honey Butter -₱ 40.00
+Pic-A -₱ 45.00
+Clover -₱ 25.00
+Martys -₱ 30.00
+Oishi - ₱ 20.00
+Tortillos -₱ 27.00
+Snacku -₱ 21.00
+Mr.Chips -₱ 15.00
+
+Cleaning products:
+Zonrox -₱ 30.00
+Calla -₱ 15.00
+Downy -₱ 12.00
+Champion -₱ 13.00
+Tide -₱ 15.00
+Wings -₱ 14.00
+Ariel -₱ 15.00
+Breeze -₱ 12.00
+Surf -₱ 10.00
+Perla -₱ 11.00
+
+Cigarettes:
+Malboro -₱ 150.00
+CAMEL -₱45.00
+Dunhill -₱ 299.00
+Pall mall ₱-59.00
+Lucky Strike -₱150.00
+Parliament -₱144.00
+Hope ₱-89.00
+Wingston -₱180.00
+Fortine -₱49.00
+
+Condiments and Spices:
+Datu Puti Soy Sauce - ₱30.00
+Datu Puti Vinegar -₱30.00
+Datu Puti Patis -₱27.00
+Salt -₱25.00
+Pepper -₱20.00
+Catsup -₱35.00
+Mang Tomas -₱40.00
+Silver Swan Soy Sauce -₱ 30.00
+Silver Swan Vinegar -₱30.00
+Silver Swan Patis -₱27.00
+
+Instant Foods:
+Lucky Me Bulalo -₱29.00
+Lucky Me La Paz Batchoy -₱29.00
+Jin Ramen -₱35.00
+Shin Ramyun -₱40.00
+Nissin Ramen -₱35.00
+Ligo -₱25.00
+Mega -₱25.00
+Century -₱30.00
+San Marino -₱30.00
+555 -₱25.00
+
+Sweets:
+Goya -₱26.00
+Choco Mucho -₱ 12.00
+KitKat -₱35.00
+Snickers -₱45.00
+Choco Baby -₱50..
+Pochi -₱30.00
+Champi -₱33.00
+Fun Chocolate -₱32.00
+Judge -₱30.00
+Flat Tops -₱20.00
