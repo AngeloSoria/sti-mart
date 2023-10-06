@@ -1,4 +1,4 @@
-# Grocery Management Systems
+# Grocery Management Systems (Console)
 
 This system is made for Object-Oriented Programming subject for my Finals. It tackles the basic features of typical Management Systems.
 
