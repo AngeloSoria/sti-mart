@@ -28,11 +28,16 @@ public class Product {
             { "id_0019", "GSM", 80.00, "dep_alcohol" }, { "id_0020", "Whiskey", 300.00, "dep_alcohol" },
 
             // Snacks
-            { "id_0021", "Piattos", 17.00, "dep_snacks" }, { "id_0022", "Nova", 17.00, "dep_snacks" },
-            { "id_0023", "Roller Coaster", 20.00, "dep_snacks" }, { "id_0024", "Honey Butter", 40.00, "dep_snacks" },
-            { "id_0025", "Pic-A", 45.00, "dep_snacks" }, { "id_0026", "Clover", 25.00, "dep_snacks" },
-            { "id_0027", "Martys", 30.00, "dep_snacks" }, { "id_0029", "Oishi", 20.00, "dep_snacks" },
-            { "id_0030", "Tortillos", 27.00, "dep_snacks" }, { "id_0031", "Snacku", 21.00, "dep_snacks" },
+            { "id_0021", "Piattos", 17.00, "dep_snacks" }, 
+            { "id_0022", "Nova", 17.00, "dep_snacks" },
+            { "id_0023", "Roller Coaster", 20.00, "dep_snacks" }, 
+            { "id_0024", "Honey Butter", 40.00, "dep_snacks" },
+            { "id_0025", "Pic-A", 45.00, "dep_snacks" }, 
+            { "id_0026", "Clover", 25.00, "dep_snacks" },
+            { "id_0027", "Martys", 30.00, "dep_snacks" }, 
+            { "id_0029", "Oishi", 20.00, "dep_snacks" },
+            { "id_0030", "Tortillos", 27.00, "dep_snacks" }, 
+            { "id_0031", "Snacku", 21.00, "dep_snacks" },
             { "id_0032", "Mr.Chips", 15.00, "dep_snacks" },
 
             // Cleaning products
@@ -48,11 +53,14 @@ public class Product {
             { "id_0041", "Perla", 11.00, "dep_cleaning_products" },
 
             // Cigarettes
-            { "id_0042", "Malboro", 150.00, "dep_cigarettes" }, { "id_0043", "CAMEL", 45.00, "dep_cigarettes" },
-            { "id_0044", "Dunhill", 299.00, "dep_cigarettes" }, { "id_0045", "Pall mall", 59.00, "dep_cigarettes" },
+            { "id_0042", "Malboro", 150.00, "dep_cigarettes" }, 
+            { "id_0043", "CAMEL", 45.00, "dep_cigarettes" },
+            { "id_0044", "Dunhill", 299.00, "dep_cigarettes" }, 
+            { "id_0045", "Pall mall", 59.00, "dep_cigarettes" },
             { "id_0046", "Lucky Strike", 150.00, "dep_cigarettes" },
             { "id_0047", "Parliament", 144.00, "dep_cigarettes" },
-            { "id_0048", "Hope", 89.00, "dep_cigarettes" }, { "id_0049", "Winston", 180.00, "dep_cigarettes" },
+            { "id_0048", "Hope", 89.00, "dep_cigarettes" }, 
+            { "id_0049", "Winston", 180.00, "dep_cigarettes" },
             { "id_0050", "Fortine", 49.00, "dep_cigarettes" },
 
             // Condiments and Spices
@@ -78,11 +86,16 @@ public class Product {
             { "id_0069", "San Marino", 30.00, "dep_instant_foods" }, { "id_0070", "555", 25.00, "dep_instant_foods" },
 
             // Sweets
-            { "id_0071", "Goya", 26.00, "dep_sweets" }, { "id_0072", "Choco Mucho", 12.00, "dep_sweets" },
-            { "id_0073", "KitKat", 35.00, "dep_sweets" }, { "id_0074", "Snickers", 45.00, "dep_sweets" },
-            { "id_0075", "Choco Baby", 50.00, "dep_sweets" }, { "id_0076", "Pochi", 30.00, "dep_sweets" },
-            { "id_0077", "Champi", 33.00, "dep_sweets" }, { "id_0078", "Fun Chocolate", 32.00, "dep_sweets" },
-            { "id_0079", "Judge", 30.00, "dep_sweets" }, { "id_0080", "Flat Tops", 20.00, "dep_sweets" },
+            { "id_0071", "Goya", 26.00, "dep_sweets" }, 
+            { "id_0072", "Choco Mucho", 12.00, "dep_sweets" },
+            { "id_0073", "KitKat", 35.00, "dep_sweets" }, 
+            { "id_0074", "Snickers", 45.00, "dep_sweets" },
+            { "id_0075", "Choco Baby", 50.00, "dep_sweets" }, 
+            { "id_0076", "Pochi", 30.00, "dep_sweets" },
+            { "id_0077", "Champi", 33.00, "dep_sweets" }, 
+            { "id_0078", "Fun Chocolate", 32.00, "dep_sweets" },
+            { "id_0079", "Judge", 30.00, "dep_sweets" }, 
+            { "id_0080", "Flat Tops", 20.00, "dep_sweets" },
 
     };
 

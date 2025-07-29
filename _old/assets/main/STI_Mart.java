@@ -1,12 +1,12 @@
 package main;
 
-import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
+import java.util.Scanner;
 
 // Main Class
 public class STI_Mart {
-    private static TextDesigns SpecialText = new TextDesigns();
+    private static final TextDesigns SpecialText = new TextDesigns();
     public Cart myCart = new Cart(); // Create myCart object from Cart class
 
     public void MainProgram() {
